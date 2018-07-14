@@ -8,7 +8,7 @@ so.
 ```
 git clone {this repo} ~/tmp
 
-mv ~/tmp ~/.vim
+mv ~/tmp/{this repo} * ~/.vim
 ```
 
 
