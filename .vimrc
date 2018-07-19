@@ -540,6 +540,7 @@ if has("autocmd")
 endif
 
 map <C-n> :NERDTreeToggle<CR>
+inoremap <silent> kj <ESC>
 
 " Specify a directory for plugins
 " - For Neovim: ~/.local/share/nvim/plugged
