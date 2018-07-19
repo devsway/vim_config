@@ -6,9 +6,10 @@ this files put to ~/.vim
 so.
 
 ```
-git clone {this repo} ~/tmp
+cd ~/
+git clone {this repo}
 
-mv ~/tmp/{this repo} * ~/.vim
+mv ~/{this repo} * ~/.vim
 ```
 
 
